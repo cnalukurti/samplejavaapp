@@ -4,3 +4,4 @@ sdf
 asdf
 tested
 Test Trigger pipeline
+test slave jenkins agent1
